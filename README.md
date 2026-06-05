@@ -20,6 +20,8 @@ Velocity-Verlet numerical integration method
 Orbital mechanics using Keplerian elements
 Simplified relativistic correction (Schwarzschild precession approximation)
 Large-scale particle simulation (test particles for asteroid and Kuiper belts)
+
+
 ⚙️ System Features
 Full Solar System planetary simulation (Sun + 8 planets)
 Mutual gravitational interaction between planets (N-body system)
@@ -29,14 +31,15 @@ Real-time interactive 3D visualization (VPython)
 Adjustable simulation speed
 Trail visualization of orbital paths
 Toggleable asteroid and Kuiper belt display
-🔬 Scientific Insights
 
+🔬 Scientific Insights
 This simulation demonstrates several important physical behaviors:
 
 Long-term orbital stability under Newtonian gravity
 Sensitivity of multi-body systems to initial conditions (chaos)
 Orbital precession effects due to relativistic correction
 Structural separation between inner and outer Solar System dynamics
+
 🛠️ Tech Stack
 Python
 NumPy
