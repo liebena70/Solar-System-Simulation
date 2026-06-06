@@ -1,4 +1,4 @@
-N-Body Solar System Simulation with Numerical Integration and Relativistic Corrections
+#N-Body Solar System Simulation with Numerical Integration and Relativistic Corrections#
 
 A computational physics simulation of the Solar System using Newtonian N-body gravitational dynamics. The system models planetary motion, asteroid belt, and Kuiper belt objects using numerical integration and includes simplified relativistic corrections for improved orbital accuracy.
 
